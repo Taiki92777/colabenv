@@ -1,99 +1,18 @@
-# output of pip freeze @ colab notebook
-
+# 適当なライブラリ詰め合わせ
 beautifulsoup4==4.6.3
-bs4==0.0.1
-fastai==1.0.61
-Flask==1.1.4
 
-# google 関係謎
-# google==2.0.3
-# google-api-core==1.26.3
-# google-api-python-client==1.12.8
-# google-auth==1.35.0
-# google-auth-httplib2==0.0.4
-# google-auth-oauthlib==0.4.6
-# google-cloud-bigquery==1.21.0
-# google-cloud-bigquery-storage==1.1.0
-# google-cloud-core==1.0.3
-# google-cloud-datastore==1.8.0
-# google-cloud-firestore==1.7.0
-# google-cloud-language==1.2.0
-# google-cloud-storage==1.18.1
-# google-cloud-translate==1.5.0
-# google-colab
-# google-pasta==0.2.0
-# google-resumable-media==0.4.1
-# googleapis-common-protos==1.53.0
-# googledrivedownloader==0.4
-
-h5py==3.1.0
-jax==0.2.21
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda111/jaxlib-0.1.71+cuda111-cp37-none-manylinux2010_x86_64.whl
-joblib==1.0.1
-
-# junpyterなんちゃらいるのか不明、おいとく
-# jupyter==1.0.0
-# jupyter-console==5.2.0
-# jupyter-core==4.8.1
-# jupyterlab-pygments==0.1.2
-# jupyterlab-widgets==1.0.2
-
-kaggle==1.5.12
-keras==2.6.0
-Keras-Preprocessing==1.1.2
-keras-vis==0.4.1
-kiwisolver==1.3.2
-korean-lunar-calendar==0.2.1
-lightgbm==2.2.3
-lxml==4.2.6
-Markdown==3.3.4
 matplotlib==3.2.2
-# matplotlib-inline==0.1.3
-# matplotlib-venn==0.11.6
+
 multiprocess==0.70.12.2
 multitasking==0.0.9
 networkx==2.6.3
 numpy==1.19.5
 opencv-contrib-python==4.1.2.30
 opencv-python==4.1.2.30
-openpyxl==2.5.9
+
 pandas==1.1.5
-pandas-datareader==0.9.0
-pandas-gbq==0.13.3
-pandas-profiling==1.4.1
-pathlib==1.0.1
 pystan==2.19.1.1
-regex==2019.12.20
-# requests-oauthlib==1.3.0
-scikit-image==0.16.2
 scikit-learn==0.22.2.post1
-scipy==1.4.1
 seaborn==0.11.2
-sklearn==0.0
-sklearn-pandas==1.8.0
 spacy==2.2.4
-# Sphinx==1.8.5
-# sphinxcontrib-serializinghtml==1.1.5
-# sphinxcontrib-websupport==1.2.4
-# SQLAlchemy==1.4.25
-# sqlparse==0.4.2
-
-# tensorflow重いのでおいとく
-# tensorboard==2.6.0
-# tensorboard-data-server==0.6.1
-# tensorboard-plugin-wit==1.8.0
-# tensorflow==2.6.0
-# tensorflow-datasets==4.0.1
-# tensorflow-estimator==2.6.0
-# tensorflow-gcs-config==2.6.0
-# tensorflow-hub==0.12.0
-# tensorflow-metadata==1.2.0
-# tensorflow-probability==0.14.1
-
-# torch 重いのでひとまずおいとく
-# torch @ https://download.pytorch.org/whl/cu111/torch-1.9.0%2Bcu111-cp37-cp37m-linux_x86_64.whl
-# torchsummary==1.5.1
-# torchtext==0.10.0
-# torchvision @ https://download.pytorch.org/whl/cu111/torchvision-0.10.0%2Bcu111-cp37-cp37m-linux_x86_64.whl
 tqdm==4.62.3
-# xgboost==0.90 # 重い
